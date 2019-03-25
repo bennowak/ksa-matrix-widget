@@ -1,0 +1,38 @@
+{
+  "Development":
+  [
+    { "Software Engineering":
+      [
+        { "Systems Design": 5 },
+        { "SaaS": 5 }
+      ]
+    },
+    { "Web Applications":
+      [
+        { "Full-stack Development": 5 },
+        { "API Design and Deployment": 5 }
+      ]
+    }
+  ],
+  "Design":
+  [
+    { "Graphic Design & Illustration":
+      [
+        { "Illustrator": 5 },
+        { "Photoshop": 5 }
+      ]
+    },
+    { "Digital Imaging":
+      [
+        { "Batch Processing": 5 }
+      ]
+    },
+    { "Multimieda and Production":
+      [
+        { "Audio Engineering": 5 },
+        { "3D Design": 5 },
+        { "Videography": 5 }
+      ]
+    }
+  ]
+}
