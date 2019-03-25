@@ -1,7 +1,7 @@
-# Configuring the Knowledge/Skillset/Aptitude Generator
+# ksa-matrix-widget
 
 ## Overview
-The KSA Generator is driven primarily by a single CSV file used to generate a valid JSON file for consumption by Website API's and other applications that would find it usefull.
+The KSA Generator is driven primarily by a single CSV file used to generate a valid JSON file for consumption by Website API's and other applications that would find it useful.
 
 ### The *skillset.csv* file
 #### Header Line
