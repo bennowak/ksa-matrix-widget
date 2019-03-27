@@ -1,0 +1,92 @@
+{
+  "Development": {
+    "Software Engineering": [
+      {
+        "Systems Design": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      },
+      {
+        "SaaS": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ],
+    "Web Applications": [
+      {
+        "FUll-stack Development": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      },
+      {
+        "API Design and Deployment": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      },
+      {
+        "FUll-stack Development": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ]
+  },
+  "Design": {
+    "Graphic Design & Illustration": [
+      {
+        "Adobe Illustrator": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ],
+    "Videography": [
+      {
+        "Adobe Premiere CC": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ]
+  },
+  "Business Operations": {
+    "Operations": [
+      {
+        "Process Management": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ],
+    "Accounting": [
+      {
+        "General Ledger": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ],
+    "Administration": [
+      {
+        "Payroll": {
+          "certifiable": "4",
+          "agency": "9",
+          "agency_url": "false"
+        }
+      }
+    ]
+  }
+}
