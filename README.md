@@ -1,7 +1,12 @@
 # ksa-matrix-widget
 
-## Overview
-The KSA Generator is driven primarily by a single CSV file used to generate a valid JSON file for consumption by Website API's and other applications that would find it useful.
+**This is a work in progress**
+
+## Problem Overview
+Maintaining a list of skills for display on a professional resume, cv, or portfolio site can be a real chore. Presenting some sort of meaningful scale to potential employers is even more difficult.
+
+## Proposed Solution
+The KSA Generator is driven primarily by a simple CSV file formate that is used to generate a valid JSON file for consumption by API's that can either store the ksa-profile, or for dynamic rendering on a WebSite.
 
 ### The *skillset.csv* file
 #### Header Line

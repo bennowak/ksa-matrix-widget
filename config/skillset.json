@@ -3,7 +3,7 @@
   [
     { "Software Engineering":
       [
-        { "Systems Design": "5" },
+        { "Systems Design": 5 },
         { "SaaS": 5 }
       ]
     },
