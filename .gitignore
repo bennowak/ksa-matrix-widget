@@ -1,3 +1,5 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
 ################################################
 ###############  .gitignore   ##################
 ################################################
@@ -21,6 +23,16 @@
 
 
 ################################################
+# Local Folders and Test Ouptut
+#
+# Explicitly ignore folders that containe test
+# output and non-relevant, non-production files
+#
+################################################
+**/HW**
+
+
+################################################
 # Local Configuration
 #
 # Explicitly ignore files which contain:
@@ -41,8 +53,6 @@
 
 config/local.js
 **venv**
-
-
 
 
 
@@ -113,8 +123,45 @@ npm-debug.log
 
 *~
 *#
-.DS_STORE
+.node_history
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
 .netbeans
 nbproject
-.idea
-.node_history
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+yarn-error.log
+testem.log
+/typings
+__pycache__
+
+# System Files
+Thumbs.db
+.DS_STORE
